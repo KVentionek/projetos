@@ -1,0 +1,3 @@
+Projeto Logica de Programação II
+
+Esse projeto consiste em um sistema para ler e analisar a situação de alunos, tais como notas, aprovação, mensalidades, presença, situação de rematrícula, além de ser capaz de atualizar os dados dos alunos. Os dados utilizados para manipulação são provenientes de um CSV criado previamente com o código que também está nesse projeto. A única biblioteca utilizada foi a de ler CSV, de restante foi apenas lógica pura, porém diferente do primeiro projeto, nesse foi feito o uso de dicionário.
