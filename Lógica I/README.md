@@ -1,3 +1,3 @@
 Projeto Lógica de Programação I
 
-O objetivo desse projeto foi construir um sistema capaz de criar novos registros de usuários e armazená-los, ler os registros salvos procurando pelo nome ou pela profissão, atualizar o registro buscando pelo telefone e deletar o registro também buscando pelo telefone. Esse sistema foi feito utilisando apenas lógica básica, sem o uso de dicionário nem bliotecas
+O propósito central deste projeto foi desenvolver um sistema que permitisse a criação, armazenamento, leitura, atualização e exclusão de registros de usuários. O sistema é projetado para pesquisar registros com base no nome ou na profissão dos usuários, atualizar registros utilizando o número de telefone como critério e deletar registros também com base no número de telefone. É importante ressaltar que todo o desenvolvimento do sistema baseou-se em lógica de programação fundamental, sem a dependência de dicionários ou bibliotecas externas.
