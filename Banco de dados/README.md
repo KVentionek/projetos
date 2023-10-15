@@ -1,4 +1,5 @@
 Projeto Bando de Dados
 
-Esse projeto consiste em uma análise de um dataset de vendas utilizando comandos sql e Python atrvés da biblioteca pandasql. Para a análise foram utilisadas também outras bibliotecas, como matplotlib e pandas.
-O projeto foi feito em dupla, etão ele é de autoria minha e do Carlucio Luis dos Santos.
+Este projeto tem como foco a análise de um conjunto de dados de vendas, realizada por meio de comandos SQL e Python, aproveitando a biblioteca pandasql para a execução eficiente de consultas SQL em conjunto com a biblioteca pandas. Além disso, para enriquecer a análise, utilizamos outras bibliotecas, como matplotlib.
+
+É importante destacar que esse projeto foi uma colaboração entre mim e Carlucio Luis dos Santos, combinando esforços e conhecimentos para uma análise detalhada e completa dos dados de vendas.
